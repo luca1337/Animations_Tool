@@ -1,0 +1,10 @@
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\bin\Debug\AnimationsTool.exe.config
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\bin\Debug\AnimationsTool.exe
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\bin\Debug\AnimationsTool.pdb
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\bin\Debug\aiv-fast2d.dll
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\bin\Debug\OpenTK.dll
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\bin\Debug\OpenTK.xml
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\obj\Debug\AnimationsTool.csprojResolveAssemblyReference.cache
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\obj\Debug\AnimationsTool.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\obj\Debug\AnimationsTool.exe
+C:\Users\Sam\source\repos\AnimationsTool\AnimationsTool\obj\Debug\AnimationsTool.pdb

@@ -1,0 +1,13 @@
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\bin\Debug\aiv-fast2d.dll
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\Sam\source\repos\AnimationsTool\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AnimationsTool.resources
